@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "main": "src/index.tsx",
-  "homepage": "",
+  "homepage": "verimascent.github.io/RandomQuoteMachine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
