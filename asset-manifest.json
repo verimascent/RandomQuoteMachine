@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/verimascent.github.io/RandomQuoteMachine/static/js/main.8a2ce58b.chunk.js",
-    "main.js.map": "/verimascent.github.io/RandomQuoteMachine/static/js/main.8a2ce58b.chunk.js.map",
-    "runtime-main.js": "/verimascent.github.io/RandomQuoteMachine/static/js/runtime-main.45abf19e.js",
-    "runtime-main.js.map": "/verimascent.github.io/RandomQuoteMachine/static/js/runtime-main.45abf19e.js.map",
-    "static/js/2.10bf08b5.chunk.js": "/verimascent.github.io/RandomQuoteMachine/static/js/2.10bf08b5.chunk.js",
-    "static/js/2.10bf08b5.chunk.js.map": "/verimascent.github.io/RandomQuoteMachine/static/js/2.10bf08b5.chunk.js.map",
-    "index.html": "/verimascent.github.io/RandomQuoteMachine/index.html",
-    "static/js/2.10bf08b5.chunk.js.LICENSE.txt": "/verimascent.github.io/RandomQuoteMachine/static/js/2.10bf08b5.chunk.js.LICENSE.txt"
+    "main.js": "/RandomQuoteMachine/static/js/main.8a2ce58b.chunk.js",
+    "main.js.map": "/RandomQuoteMachine/static/js/main.8a2ce58b.chunk.js.map",
+    "runtime-main.js": "/RandomQuoteMachine/static/js/runtime-main.6f958c6d.js",
+    "runtime-main.js.map": "/RandomQuoteMachine/static/js/runtime-main.6f958c6d.js.map",
+    "static/js/2.5ea129fe.chunk.js": "/RandomQuoteMachine/static/js/2.5ea129fe.chunk.js",
+    "static/js/2.5ea129fe.chunk.js.map": "/RandomQuoteMachine/static/js/2.5ea129fe.chunk.js.map",
+    "index.html": "/RandomQuoteMachine/index.html",
+    "static/js/2.5ea129fe.chunk.js.LICENSE.txt": "/RandomQuoteMachine/static/js/2.5ea129fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45abf19e.js",
-    "static/js/2.10bf08b5.chunk.js",
+    "static/js/runtime-main.6f958c6d.js",
+    "static/js/2.5ea129fe.chunk.js",
     "static/js/main.8a2ce58b.chunk.js"
   ]
 }
